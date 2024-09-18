@@ -11,7 +11,7 @@ if pertence_fibonacci(numero):
 else:
     print(f"O número {numero} não pertence à sequência de Fibonacci.")
 
-
+#2
 def contar_as(texto):
 
     return texto.lower().count('a')
